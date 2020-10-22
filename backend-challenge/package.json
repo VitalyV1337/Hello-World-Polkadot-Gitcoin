@@ -1,0 +1,12 @@
+{
+  "name": "polkadot-backend-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "author": "VitalyVolozhinov",
+  "license": "MIT",
+  "dependencies": {
+    "@polkadot/api": "^2.3.1",
+    "keypress": "^0.2.1"
+  }
+}
