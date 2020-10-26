@@ -1,0 +1,12 @@
+{
+  "CUSTOM_TYPES": {
+      "Address": "AccountId",
+      "LookupSource": "AccountId",
+      "ShoppingBagDetails": {
+          "Bag": "Vec<u8>",
+          "Items": "u32",
+          "ItemsNeeded": "Option<u32>"
+      }
+  },
+  "PROVIDER_SOCKET": "ws://127.0.0.1:9944"
+}
